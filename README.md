@@ -3,7 +3,7 @@ ChatBuddy is an interactive chatbot built using Python and Tkinter. It leverages
 
 Features
 
-Interactive GUI: Developed with Tkinter, providing a user-friendly interface.
+Interactive GUI: Developed with Tkinter, providing a user-friendly interface. 
 Learning Capability: ChatBuddy can learn new responses when it encounters unfamiliar inputs.
 Customizable Responses: Easily update or add new response pairs to improve interaction quality.
 Chat History: Maintains a history of the conversation, which can be saved and loaded.
