@@ -40,3 +40,7 @@ Future Enhancements:
 Contributing: Contributions are welcome! Please fork the repository and submit a pull request for any improvements or new features.
 
 License: This project is licensed under the MIT License.
+
+Connect With Me:
+IG: @thesyrinx
+Email: prashantsh0530@gmail.com
