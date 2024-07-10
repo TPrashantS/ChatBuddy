@@ -37,10 +37,6 @@ Future Enhancements
 
 * Implement a database to manage learned responses and chat history more efficiently.
 
-Contributing
+Contributing: Contributions are welcome! Please fork the repository and submit a pull request for any improvements or new features.
 
-Contributions are welcome! Please fork the repository and submit a pull request for any improvements or new features.
-
-License
-
-This project is licensed under the MIT License.
+License: This project is licensed under the MIT License.
