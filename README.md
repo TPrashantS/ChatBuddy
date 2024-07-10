@@ -1,7 +1,7 @@
 # ChatBuddy
 ChatBuddy is an interactive chatbot built using Python and Tkinter. It leverages the NLTK library to understand and respond to user inputs. Unlike traditional chatbots, ChatBuddy has a unique feature that allows it to learn new responses directly from users, enhancing its conversational abilities over time.
 
-Features
+Features:
 
 * Interactive GUI: Developed with Tkinter, providing a user-friendly interface. 
 
@@ -13,7 +13,7 @@ Features
 
 * User-Friendly Design: Includes warning messages for empty inputs and confirmation prompts for saving new responses.
 
-Usage
+Usage:
 
 * Start Chatting: Type your message and press Enter or click the "Send" button.
 
@@ -21,7 +21,7 @@ Usage
 
 * Quit: Type 'quit' to close the application.
 
-Project Structure
+Project Structure:
 
 * chatbuddy.py: Main script to run the chatbot.
 
@@ -29,7 +29,7 @@ Project Structure
 
 * chat_history.txt: Stores chat history.
 
-Future Enhancements
+Future Enhancements:
 
 * Integrate more sophisticated NLP techniques for better understanding and responses.
 
